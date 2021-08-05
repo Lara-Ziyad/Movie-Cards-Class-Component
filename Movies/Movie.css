@@ -1,0 +1,18 @@
+.Movie {
+    width: 60%;
+    margin: 16px auto;
+    border: 1px solid #475C7A;
+    box-shadow: 0 2px 3px #D8737F;
+    padding: 16px;
+    text-align: center;
+    background-color: #AB6C82 ;
+    color: #FCBB6D;
+    font-size: 24px;
+}
+
+.Input {
+    background-color: #AB6C82 ;
+
+
+
+}
